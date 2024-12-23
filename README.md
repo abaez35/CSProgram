@@ -5,7 +5,7 @@ Understanding the user's needs helps the development team prioritize which featu
 
 # How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-I approach development programs by clearly identifying the goal of my program and what functions are needed to achieve it. I will need to gather information about the user needs and the expected features and create a project plan. The agile processes I hope to incorporate into my future development work would be daily stand
+I approach development programs by clearly identifying the goal of my program and what functions are needed to achieve it. I will need to gather information about the user needs and the expected features and create a project plan. The agile processes I hope to incorporate into my future development work would be a daily stand, prioritizing user stories based on requirements that have been given through feedback from stakeholders. I would also like to foster a collaborative team culture where everyone is encouraged to contribute and give feedback throughout the entire process. 
 
 # What does it mean to be a good team member in software development?
 
